@@ -1,5 +1,5 @@
 Student Name:
 
-Studnet #:
+Student #:
 
 Student email:
